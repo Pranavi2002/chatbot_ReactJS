@@ -1,0 +1,26 @@
+.chat-body{
+    background-color:rgb(236, 249, 64);
+}
+
+h1{
+    color: blueviolet;
+    font-family: 'Lobster', cursive;
+    font-size: 50px;
+}
+
+img{
+    width: 500px;
+    height: auto;
+}
+
+.pl{
+    color: crimson;
+    font-family: 'Satisfy', cursive;
+    font-size: 30px;
+}
+
+.cq{
+    color: crimson;
+    font-family: 'Satisfy', cursive;
+    font-size: 30px;
+}
